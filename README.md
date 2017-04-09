@@ -12,10 +12,14 @@ Here I will document everything I used to study as: [links](/links), [notes](/no
 - [ ] Be inspires and encourages others people to do learning programming
 - [ ] Improve my English
 - [ ] Be a more communicative person
+- [ ] Become an independent person
+- [ ] To be a zen person
+- [ ] Be surrounded by good and intelligent people
 
 ## Things I'll do in the next one month:
 
 - [ ] Start yoga again
+- [ ] Start meditation again
 - [ ] Remember about Algorithms and Logic Programming
 - [ ] Read about Introduction Software Testing
 - [ ] Practice more English
@@ -32,3 +36,9 @@ Study focus: <code>Testing Software</code>
 - [ ] Improve my Russian
 - [ ] Improve my Spanish
 - [ ] Learn about Object Oriented Programming
+- [ ] Travel for London
+- [ ] Programming in various programming languages
+- [ ] Make Exchange
+- [ ] Live a time outside Brazil
+- [ ] Work in an interesting company
+- [ ] Participate in technology events

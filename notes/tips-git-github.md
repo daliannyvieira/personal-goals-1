@@ -125,3 +125,13 @@ Para entender melhor: [Merge e Rebase diferenças](http://www.arruda.blog.br/pro
 - git tag -d nomedatag (apaga a tag)
 - git push origin : nomedatag (apagar remotamente)
 - git push origin : nomedabranch (apaga branch remotamente)
+
+
+### Extras
+
+Remover uma pasta servidor remoto:
+
+- Primeiro certifique-se que o seu repositório está sincronizado com o repositório remoto: $ git pull origin master, (supondo que o branch seja master). 
+- Então remova a pasta localmente: $ git rm -r Landing Email.
+- Agora faça um commit das modificações: $ git commit -m "Remove pastas Landing e Email"
+- Sincronize com repositório remoto: $ git push origin master

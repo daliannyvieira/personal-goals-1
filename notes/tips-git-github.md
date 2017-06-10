@@ -126,6 +126,11 @@ Para entender melhor: [Merge e Rebase diferenças](http://www.arruda.blog.br/pro
 - git push origin : nomedatag (apagar remotamente)
 - git push origin : nomedabranch (apaga branch remotamente)
 
+### Removendo
+
+- Remover arquivo: git rm meu_arquivo.txt
+
+- Remover diretório: git rm -r diretorio
 
 ### Extras
 

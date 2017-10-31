@@ -6,6 +6,8 @@ Here I will document everything I used to study as: [links](/links), [notes](/no
 
 Study focus: <code>Programming and Software Testing</code>
 
+**VOLTA A PRATICAR, VOCÊ É INCRVEL MANA <3 **
+
 
 ## Things for 2017
 
